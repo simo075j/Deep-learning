@@ -12,3 +12,12 @@ The first project revolves around coding neural network structures trough three 
 *3 Using the Keras/Tensorflow library
 
 This is done to ensure a base understanding of the core concepts in deeplearning
+
+
+### Project 2 - assignment clasifying newswires / Boston house price (assign. c) / Understanding RNN
+
+
+### Project 3 - Advanced RNN implementation
+
+
+### project 4 - covnets? or new repo for image recognition?
