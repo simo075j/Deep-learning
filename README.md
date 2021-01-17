@@ -1,8 +1,8 @@
-# Deep-learning
+# Neural networks and Deep-learning
 
 This repo consists of a series of projects related to neural networks and deep learning.
 
-
+### Project 1 - Neural networks from scratch
 The first project revolves around coding neural network structures trough three different approaches.
 
 *1 Using Python base code (no libraries)
