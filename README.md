@@ -14,7 +14,7 @@ The first project revolves around coding neural network structures trough three 
 This is done to ensure a base understanding of the core concepts in deeplearning
 
 
-### Project 2 - assignment clasifying newswires / Boston house price (assign. c) / Understanding RNN
+### Project 2 - IMDB score classification with recurrent neural networks (simple RNN and LSTM)
 
 
 ### Project 3 - Advanced RNN implementation
