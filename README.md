@@ -17,7 +17,7 @@ This is done to ensure a base understanding of the core concepts in deeplearning
 ### Project 2 - IMDB score classification with recurrent neural networks (simple RNN and LSTM)
 
 
-### Project 3 - Temperature forecasting with advanced recurrent neural networks (bidirectional RNN, Dropout and Network stacking)
+### Project 3 - Temperature forecasting and IMDB score classification with advanced recurrent neural networks (bidirectional RNN, Dropout and Network stacking)
 The main objective of this project is to forecast temperatures based on a large historic dataset
 The implementation of advanced RNNs provides a highly predictive model for anticipating weater conditions
 
