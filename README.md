@@ -19,7 +19,7 @@ This project utilizes the power of recurrent neural networks on sequential data 
 The implementation is initialized with a simple RNN architechture, which is evaluated and improved significantly by applying a LSTM architechture.
 The LSTM recurrent neural network is able to predict the sentiment of reviews with a accuracy of 90% (without any hyperparameter tuning)
 
-![](ticker_prices.png)
+![](model_eval_imdb.png)
 
 ### Project 3 - Temperature forecasting and IMDB score classification with advanced recurrent neural networks (bidirectional RNN, Dropout and Network stacking)
 The final installment in this series of projects revolves around more advanced uses of recurrent deep neural networks. This approach is applied and evaluated on a weather forecasting problem aswell as a continuation on the IMDB NLP problem.
