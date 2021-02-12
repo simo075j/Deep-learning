@@ -17,7 +17,7 @@ This is done to ensure a base understanding of the core concepts in deeplearning
 ### Project 2 - IMDB score classification with NLP and recurrent neural networks (simple RNN and LSTM)
 This project utilizes the power of recurrent neural networks on sequential data such as a bag of words.
 The implementation is initialized with a simple RNN architechture, which is evaluated and improved significantly by applying a LSTM architechture.
-The LSTM recurrent neural network is able to predict the sentiment of reviews with a accuracy of 90% (without any hyperparameter tuning)
+The LSTM recurrent neural network is able to predict the sentiment of reviews with a accuracy clode to 90% (without any hyperparameter tuning)
 
 ![](model_eval_imdb.png)
 
